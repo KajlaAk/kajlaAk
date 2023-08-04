@@ -1,7 +1,7 @@
-![MasterHead](https://img.freepik.com/free-photo/programming-script-text-coding-word_53876-121207.jpg?w=996&t=st=1691164075~exp=1691164675~hmac=956036d42e02ce7218847e06a2cd6d22860610d9f7ba9f17e7882fe3b884095b)
+![MasterHead](https://github.com/KajlaAk/kajlaAk/blob/main/Capture.PNG)
 <h1 align="center">Hi 👋, I'm Ankita Kajla</h1>
 <h3 align="center">A passionate frontend React JS developer from India</h3>
-<img align="right" alt="coading" width="400" src="https://w.forfun.com/fetch/cc/cc7720e49963a949e6e2d381b42e9506.jpeg?w=600&r=0.5625"/>
+<img align="right" alt="coading" width="400" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1691170441~exp=1691171041~hmac=9942b74fbca76ef971cca89b944359e6b38e3e94d7ea37460673edb039cf9c99"/>
 
 - 🔭 I’m currently working on **Portfolio**
 
